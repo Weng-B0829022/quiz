@@ -8,4 +8,4 @@
 	function change() {     
 		var x = document.getElementById("H1").innerHTML = "CSIE@CGU";
     	var y = document.getElementById("P").innerHTML = "怎麼那麼棒！！";
-	}   
+	}    
