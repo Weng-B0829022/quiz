@@ -11,4 +11,4 @@ data.done( function( msg ) {
     }
   }); 
 }); 
-data.fail( function( msg ) { }); 
+data.fail( function( msg ) { });  
